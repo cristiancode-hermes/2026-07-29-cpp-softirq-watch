@@ -1,0 +1,15 @@
+*.o
+*.obj
+*.exe
+softirq-watch
+build/
+.vscode/
+.idea/
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+*.swp
+*.swo
+*~
+.DS_Store
